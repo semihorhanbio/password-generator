@@ -58,8 +58,11 @@ button {
 
 .password-box {
     width: 211px;
-    height: 39px;
+    height: 30px;
     background: #273549;
     border-radius: 6px;
     margin: 0 12px;
+    color: #10B981;
+    text-align: center;
+    padding-top: 10px;
 }
