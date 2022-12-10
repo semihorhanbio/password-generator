@@ -1,7 +1,7 @@
 This is one of the solo projects that needs to be completed on the scrimba platform.
 
 ## Live
-Check github pages on the right for live version
+https://semihorhanbio.github.io/password-generator/
 
 ## About Scrimba
 
